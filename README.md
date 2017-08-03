@@ -43,7 +43,7 @@ $ npm install archiver
 node ./build/deploy.js
 ```
 
-3. 也可以在package.json中添加scripts
+*也可以在package.json中添加scripts*
 
 ```javascript
     "scripts":{
